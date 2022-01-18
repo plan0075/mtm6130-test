@@ -1,2 +1,2 @@
 # mtm6130-test
-test git repo for mtm6130 week 2
+this is a test repository for mtm6130
